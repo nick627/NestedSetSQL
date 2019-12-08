@@ -7,5 +7,5 @@ Operations on graph on nested set.
 - 05_02_GraphOnNestedSet.sql
 
 ### MS SQL
-- lab5_graph.sql
 - lab5_hierarchy.sql
+- lab5_graph.sql
